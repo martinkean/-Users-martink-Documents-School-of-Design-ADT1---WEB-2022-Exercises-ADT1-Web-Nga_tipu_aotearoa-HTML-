@@ -1,4 +1,4 @@
-# Ngā Tipu Aotearoa - HTML & CSS & Eleventy Template for ADT1 Web
+# Ngā Tipu Aotearoa - HTML & CSS Template for ADT1 Web
 
 ### Ngā Tipu Aotearoa
 Eleventy with HTML/CSS and Markdown.
