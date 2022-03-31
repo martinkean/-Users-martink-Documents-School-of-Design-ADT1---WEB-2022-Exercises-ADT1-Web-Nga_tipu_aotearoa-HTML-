@@ -1,7 +1,6 @@
 # Ngā Tipu Aotearoa - HTML & CSS Template for ADT1 Web
 
 ### Ngā Tipu Aotearoa
-Eleventy with HTML/CSS and Markdown.
 
 How to use these files:
 1. Got to the green USE THIS TEMPLATE button
